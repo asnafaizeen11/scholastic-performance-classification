@@ -9,7 +9,7 @@ Tech Stack
 - Matplotlib  
 Project Report
 You can view the complete project documentation here:
-C:\Users\mujtaba\OneDrive\Documents\Custom Office Templates\A MACHINE LEARNING APPROACH TO SCHOLASTIC PERFORMANCE CLASSIFICATION.docx
+https://github.com/asnafaizeen11/scholastic-performance-classification/blob/main/A%20MACHINE%20LEARNING%20APPROACH%20TO%20SCHOLASTIC%20PERFORMANCE%20CLASSIFICATION.docx
 Work Done
 - Designed and implemented a classification pipeline to categorize student performance  
 - Performed data preprocessing including cleaning and handling missing values  
